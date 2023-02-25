@@ -1,1 +1,1 @@
-baru
+status pada git
